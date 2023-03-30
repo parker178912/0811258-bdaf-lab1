@@ -1,6 +1,3 @@
----
-###### tags: `programming`
----
 # 0811258_bdaf_lab1
 * In this assignment, you are tasked with writing a Python function that will generate a Merkle proof.
 
