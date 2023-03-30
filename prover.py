@@ -64,10 +64,10 @@ def gen_merkle_proof(leaves, pos):
         #######     to hash internal nodes in the tree use the    ######
         #######     function hash_internal_node(left,right)       ######
 
-        # If the position is even, then it's sibling is on the right.
+        # If the position is even, then its sibling is on the right.
         if level_pos % 2 == 0:
             sibling = state[level_pos+1]
-        # Otherwise, it's sibling on the left.
+        # Otherwise, its sibling on the left.
         else:
             sibling = state[level_pos-1]
 

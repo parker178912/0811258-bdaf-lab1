@@ -1,5 +1,6 @@
 # 0811258_bdaf_lab1
 * In this assignment, you are tasked with writing a Python function that will generate a Merkle proof.
+* The starter code, which you will find in a zip file named sample.zip, contains three files: prover.py, verifier.py, and proof-for-leaf-95.txt.
 
 ## Code explain :
 
