@@ -37,4 +37,5 @@
     When the position of the state are even (Ex: hABCD), then its sibling is on the right side (hEFGH) and the position is state+1 ; Otherwise, take hCD for example, the position of hCD is odd so its sibling is on the left side (hAB).
     
 ![](https://i.imgur.com/kb94UQr.png)
+
 ( source : [Merkle Tree 和 Merkle Root 介紹](https://academy.binance.com/zt/articles/merkle-trees-and-merkle-roots-explained) )
